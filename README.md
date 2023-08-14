@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi there 👋 from 🇻🇳
+🦁 You can call me Manh or Wayne
 
-<!--
-**manhtqb/manhtqb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎉 07/27/1994, the day I started my journey.
 
-Here are some ideas to get you started:
+🌏 I live in Hanoi, Vietnam. You all should come here once, you'll never regret it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍💻 I'm working as a Middle Web Developer, Junior DevOps and a Junior Manager of a small team.
+
+🏫 I graduated from Thanglong University.
+
+💻 My current stack
+- 🔮Backend: `PHP`, `Laravel`, `AWS Serverless`
+- 📚 Database: `Relational DB` and `Firebase` sometimes.
+- 🎴 Frontend: `VueJS`
+
+🎑 Besides my full-time coding job, my life is all about:
+- ⚽ Watching football and playing football 🥅 (the real football LOL 🤣)
+- 🏸 Amatuer badminton player, but if you want to play with me, I'm always ready🏸
+- 🎞 Crime movies in Netflix
+
+🌱 I’m currently learning to improve some of my skills: DevOps, Frontend, Management
+
+💬 If you want to reach me, just search my github username in Instagram or Facebook.
